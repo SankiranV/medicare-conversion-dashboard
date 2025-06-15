@@ -28,9 +28,9 @@ Health insurance companies struggle to identify which customers are likely to pu
 ├── 05_Explainability.ipynb
 ├── 06_Dashboard_DataPrep.ipynb
 ├── dashboards/
-│ └── predictions_with_shap.csv
+│   └── predictions_with_shap.csv
 ├── images/
-│ └── [screenshots of Tableau visuals]
+│   └── [screenshots of Tableau dashboard]
 └── README.md
 
 ## Dashboards
